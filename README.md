@@ -11,17 +11,11 @@
 - ⚡ Fun fact: I Think I am funny.
 
 ## Connect with me  
+###
 <div align="center">
-<a href="https://github.com/https://github.com/arunprasath23072002" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arunprasath-s-677445285" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://www.linkedin.com/in/arunprasath-s-677445285" height="25" alt="linkedin logo"  />
+</div>
 
-<br/>  
 
 
 
