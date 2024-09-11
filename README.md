@@ -15,6 +15,18 @@ arunprasath23072002@gmail.com | [LikedIn](https://www.linkedin.com/in/arunprasat
 
 Kumbakonam, Tamil Nadu - 612 804 | +91 7010170519.
 
+## 🛠️ Languages and Tools
+- Programming:
+  - Python
+  - R
+  - SQL
+- Tools:
+  - Excel
+  - Power BI
+  - MYSQL
+  - IBM SPSS
+  - MINITAB 
+
 
 
 
