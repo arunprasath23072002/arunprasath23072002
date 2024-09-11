@@ -1,5 +1,5 @@
 - 👋 Hello!
-![image was broken]https://github.com/arunprasath23072002/arunprasath23072002/blob/main/arun.jpg)
+![image was broken] (https://github.com/arunprasath23072002/arunprasath23072002/blob/main/arun.jpg "Arunprasath S")
 
 - 👋 Hi, I’m Arunprasath S
 - 👀 I’m interested in Data Analyst and Data Scientist
