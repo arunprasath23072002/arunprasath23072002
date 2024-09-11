@@ -10,10 +10,14 @@
 - 📫 How to reach me arunprasath23072002@gmail.com
 - ⚡ Fun fact: I Think I am funny.
 
-## Connect with me  
+## 🔗Connect with me  
 arunprasath23072002@gmail.com | [LikedIn](https://www.linkedin.com/in/arunprasath-s-677445285).
 
 Kumbakonam, Tamil Nadu - 612 804 | +91 7010170519.
+
+## 🎓Education
+- M.Sc., Statistics With Computer Applications - Bharathiar University (CGPA: 7.4/10)
+- B.Sc., Statistics - Government Arts College, Kumbakonam (CGPA:8.6/10)
 
 ## 🛠️ Languages and Tools
 - Programming:
@@ -27,7 +31,14 @@ Kumbakonam, Tamil Nadu - 612 804 | +91 7010170519.
   - IBM SPSS
   - MINITAB 
 
+## Certifications
+- Data Analytics using python - NPTEL(SWAYAM)
+- Python Training - Besant Technologies
+- Introduction to SQL - Simplilearn
+- Data Visualization with Power BI - Great Learning
 
+## 💻Technical Skills
+I am proficient in python, R and SQL and have practical knowledge of software programs like Power BI, Excel, SPSS, Minitab, and statistica. My strong points include data gathering, data cleaning, outlier detection, exploratory data analysis (EDA), and data visualization, all of which help with the effective management and examination of large datasets.✨
 
 
 
