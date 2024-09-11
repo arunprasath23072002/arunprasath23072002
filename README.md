@@ -1,5 +1,5 @@
 # Welcome To My Profile!
-![Arunprasath_S](https://github.com/arunprasath23072002/arunprasath23072002/blob/main/Arunprasath%20S.jpg?raw=true)
+![Arunprasath_S](https://github.com/arunprasath23072002/arunprasath23072002/blob/main/Arunprasath%20S.png?raw=true)
 
 - 👋 Hi, I’m Arunprasath S
 - 👀 I’m interested in Data Analyst and Data Scientist
