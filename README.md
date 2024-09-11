@@ -1,8 +1,9 @@
 # Welcome To My Profile!
 ![Arunprasath_S](https://github.com/arunprasath23072002/arunprasath23072002/blob/main/Arunprasath%20S.png?raw=true)
 
-## Arunprasat S 
 <div align="center">
+## Arunprasat S 
+
 
 ## About Me
 <div align="center">
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
-
+###
 
 - 👋 Hi, I’m Arunprasath S
 - 👀 I’m interested in Data Analyst and Data Scientist
