@@ -41,8 +41,8 @@ Kumbakonam, Tamil Nadu - 612 804 | +91 7010170519.
 I am proficient in python, R and SQL and have practical knowledge of software programs like Power BI, Excel, SPSS, Minitab, and statistica. My strong points include data gathering, data cleaning, outlier detection, exploratory data analysis (EDA), and data visualization, all of which help with the effective management and examination of large datasets.✨
 
 ## 👨‍💻🚀Projects
-### 1) Excel Project.
-I study health care data set. There is a my project data insights to. Then data analytics insights of my health care data set in this analysis and also give to easily understandable to data visualization. The project aims to provide a detailed understanding of patient health profiles and the factors influencing healthcare costs, enabling informed decision-making within the healthcare sector.
+### 1) Excel Project. 
+I study health care data set. There is a my project data insights to. Then data analytics insights of my health care data set in this analysis and also give to easily understandable to data visualization. The project aims to provide a detailed understanding of patient health profiles and the factors influencing healthcare costs, enabling informed decision-making within the healthcare sector. [Health Care Data Analysis and Insights](https://github.com/arunprasath23072002/Excel-Project/blob/main/Excel%20Project%20(ARUNPRASATH_S)%20-%20HEALTH%20CARE.xlsx)
 
 
 
