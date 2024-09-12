@@ -42,7 +42,7 @@ I am proficient in python, R and SQL and have practical knowledge of software pr
 
 ## 👨‍💻🚀Projects
 ### 1) Excel Project.
-             I study health care data set. There is a my project data insights to. Then data analytics insights of my health care data set in this analysis and also give to easily understandable to data visualization. The project aims to provide a detailed understanding of patient health profiles and the factors influencing healthcare costs, enabling informed decision-making within the healthcare sector.
+I study health care data set. There is a my project data insights to. Then data analytics insights of my health care data set in this analysis and also give to easily understandable to data visualization. The project aims to provide a detailed understanding of patient health profiles and the factors influencing healthcare costs, enabling informed decision-making within the healthcare sector.
 
 
 
