@@ -41,7 +41,7 @@ Kumbakonam, Tamil Nadu - 612 804 | +91 7010170519.
 I am proficient in python, R and SQL and have practical knowledge of software programs like Power BI, Excel, SPSS, Minitab, and statistica. My strong points include data gathering, data cleaning, outlier detection, exploratory data analysis (EDA), and data visualization, all of which help with the effective management and examination of large datasets.✨
 
 ## 👨‍💻🚀Projects
-### 1) A STATISTICAL STUDY ON BRAND FAMILIARITY, PREFERENCE AND FUTURE SELECTION BEHAVIOR OF MOBILES AMONG BHARATHIAR UNIVERSITY STUDENTS using SPSS and MINITAB
+### 1) A Statistical Study On Brand Familiarity, Preference and future selection behavior of Mobiles Among Bharathair University Students
 The primary aim of our study is to make a statistical investigation on mobile concerning the usage of which brand mobile. common public may use mobile brands even for goods communications and some agencies use mobile phones for finance, learning platforms, business, etc.  Comprehension to make a study would be a difficult task and time-consuming, the present study has been confined to the usage of mobile phones among Bharathiar University students. [Mobile Brand Perference among the Bharathiar University Students](https://github.com/arunprasath23072002/SPSS-AND-MINITAB-PROJECT/blob/main/Mobile%20Brand%20perfernce%20among%20bharathiar%20university%20students.pdf)
 
 ### 2) Excel Project. 
