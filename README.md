@@ -1,7 +1,7 @@
 # Welcome To My Profile!
 ![Arunprasath_S](https://github.com/arunprasath23072002/arunprasath23072002/blob/main/Arunprasath%20S.png?raw=true)
 ## <div align="center">Arunprasath S</div>  
-| [Download Resume](https://drive.google.com/file/d/1Sw-frCCyD6BaB6GdhLmHjvEKpzAyAdh-/view?usp=sharing) | 
+| [View Resume](https://drive.google.com/file/d/1Sw-frCCyD6BaB6GdhLmHjvEKpzAyAdh-/view?usp=sharing) | 
 |    :----:   |
 ## About me
 👋 I am Arunprasath S, I am recently graduated in M.Sc., Statistics with Computer Applications from Bharathiar University. I have strong foundation in statistics and a keen interest in data. i am skilled at identifying patterns and facilitating well-informed decision-making.💡📈  
