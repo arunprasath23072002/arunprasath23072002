@@ -51,7 +51,9 @@ I study health care data set. There is a my project data insights to. Then data 
 ### 3) Power BI Project
 This project seeks to delve deep into a lending loan dataset to uncover the relationship between borrower behavior (such as employment length, income, and debt-to-income ratio) and loan characteristics (including amount, term, and interest rate) to unearth critical insights into loan performance metrics. By examining patterns in loan statuses such as fully paid, charged off, or late payments, this analysis aims to empower banking institutions with actionable insights to optimize loan lending strategies, mitigate credit risk, and enhance performance.[Bank Loan performance Analysis](https://github.com/arunprasath23072002/Power-BI-Project/blob/main/Power%20BI%20Capstone%20Project_%20Bank%20Loan%20Performance%20Analysis.pdf)
 
-
+### 4) SQL Project
+Customer churn analysis in e-commerce is a critical process that helps businesses understand why customers stop engaging with their services or products. By identifying the factors contributing to customer churn, companies can implement strategies to retain customers, improve satisfaction, and ultimately enhance profitability. 
+[E-Commerce Customer Churn Analysis](https://github.com/arunprasath23072002/SQL-Project/blob/main/README.md)
 
 <!---
 arunprasath23072002/arunprasath23072002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
