@@ -37,6 +37,7 @@ Kumbakonam, Tamil Nadu - 612 804 | +91 7010170519.
 - Python Training - Besant Technologies
 - Introduction to SQL - Simplilearn
 - Data Visualization with Power BI - Great Learning
+- Proficient in Type writing -  English(Junior level)
 
 ## 💻Technical Skills
 I am proficient in python, R and SQL and have practical knowledge of software programs like Power BI, Excel, SPSS, Minitab, and statistica. My strong points include data gathering, data cleaning, outlier detection, exploratory data analysis (EDA), and data visualization, all of which help with the effective management and examination of large datasets.✨
