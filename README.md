@@ -56,6 +56,10 @@ This project seeks to delve deep into a lending loan dataset to uncover the rela
 Customer churn analysis in e-commerce is a critical process that helps businesses understand why customers stop engaging with their services or products. By identifying the factors contributing to customer churn, companies can implement strategies to retain customers, improve satisfaction, and ultimately enhance profitability. 
 [E-Commerce Customer Churn Analysis](https://github.com/arunprasath23072002/SQL-Project/blob/main/README.md)
 
+
+### 5) Python-Project (Data visualization using Python)
+In digital marketing, evaluating campaign success is crucial for optimizing ROI and performance. This project focuses on analyzing extensive campaign data to compare key metrics like conversion rates, acquisition costs, and ROI across various types, channels, and audience segments. It aims to uncover actionable insights by examining temporal trends, geographical influences, and audience responses to identify success drivers and recommend strategies for future improvements.[Digital Marketing Analysis](https://github.com/arunprasath23072002/Python-Project/edit/main/README.md)
+
 <!---
 arunprasath23072002/arunprasath23072002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
